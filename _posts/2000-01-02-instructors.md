@@ -20,9 +20,9 @@ fa-icon: info
     </a>
 </div>
 <div class="author">
-    <a href="http://jorditorres.org/" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/JordiTorres.jpg"></div>
-      <div>Jordi Torres</div>
+    <a href="http://noecasas.com/" target="_blank">
+      <div class="authorphoto"><img src="img/tas/NoeCasas.jpg"></div>
+      <div>No&eacute; Casas</div>
     </a>
 </div>
 <div class="author">
@@ -36,12 +36,6 @@ fa-icon: info
     <a href="https://github.com/santi-pdp" target="_blank">
       <div class="authorphoto"><img src="img/instructors/SantiPascual.jpg"></div>
       <div>Santiago Pascual</div>
-    </a>
-</div>
-<div class="author">
-    <a href="https://imatge.upc.edu/web/people/veronica-vilaplana" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/VeronicaVilaplana.jpg"></div>
-      <div>Veronica Vilaplana</div>
     </a>
 </div>
 <div class="author">
@@ -60,20 +54,8 @@ fa-icon: info
 <br>
 <br>
 
-### Teaching Assistants
+### Teaching Assistant
 
-<div class="author">
-    <a href="https://imatge.upc.edu/web/people/adria-casamitjana" target="_blank">
-      <div class="authorphoto"><img src="img/tas/AdriaCasamitjana.jpg"></div>
-      <div>Adri&agrave; Casamitjana</div>
-    </a>
-</div>
-<div class="author">
-    <a href="http://noecasas.com/" target="_blank">
-      <div class="authorphoto"><img src="img/tas/NoeCasas.jpg"></div>
-      <div>No&eacute; Casas</div>
-    </a>
-</div>
 <div class="author">
     <a href="https://imatge.upc.edu/web/people/amanda-duarte" target="_blank">
       <div class="authorphoto"><img src="img/tas/AmandaDuarte.jpg"></div>
@@ -81,34 +63,4 @@ fa-icon: info
     </a>
 </div>
 
-
-<br>
-
-### Guest Speakers
-
-<div class="author">
-      <div class="authorphoto"><img src="img/guests/OriolVinyals-160x160.jpg"></div>
-      <div><a href="https://research.google.com/pubs/OriolVinyals.html" target="_blank">Oriol Vinyals</a></div>
-      <div><a href="https://deepmind.com/">Google Deepmind</a></div>
-      <div>(London, UK)</div>
-</div>
-<div class="author">
-      <div class="authorphoto"><img src="img/guests/YannisKalantidis-160x160.jpg"></div>
-      <div><a href="http://www.skamalas.com/" target="_blank">Yannis Kalantidis</a></div>
-      <div><a href="https://research.fb.com/category/applied-machine-learning/">Facebook AML</a></div>
-      <div>(Menlo Park, USA)</div>
-</div>
-<div class="author">
-      <div class="authorphoto"><img src="img/guests/AmaiaSalvador-160x160.jpg"></div>
-      <div><a href="https://imatge.upc.edu/web/people/amaia-salvador" target="_blank">Amaia Salvador</a></div>
-      <div><a href="https://imatge.upc.edu/web/">UPC Barcelona</a></div>
-      <div>(Catalonia / Spain)</div>
-</div>
-<div class="author">
-      <div class="authorphoto"><img src="img/guests/CristianCanton-160x160.jpg"></div>
-      <div><a href="https://cristiancanton.github.io/" target="_blank">Cristian Canton</a></div>
-      <div><a href="https://research.fb.com/category/applied-machine-learning/">Facebook AML</a></div>
-      <div>(Seattle, USA)</div>
-</div>
-<br>
 
