@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Deep Learning for Artificial Intelligence"
+title:       "UPC Deep Learning for Artificial Intelligence 2018"
 keywords:    "artificial intelligence, deep learning, teaching, course, barcelona, upc, catalonia"
-description: "Course page for Deep Learning for Artificial Intelligence at UPC TelecomBCN, Barcelona, Catalonia."
+description: "Course page for Deep Learning for Artificial Intelligence at UPC TelecomBCN, Barcelona, Catalonia. 2018"
 source_link: "https://github.com/imatge-upc/wwwtemplate"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
