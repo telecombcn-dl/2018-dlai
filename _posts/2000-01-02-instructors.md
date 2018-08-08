@@ -45,6 +45,12 @@ fa-icon: info
     </a>
 </div>
 <div class="author">
+    <a href="https://imatge.upc.edu/web/people/veronica-vilaplana" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/VeronicaVilaplana.jpg"></div>
+      <div>Veronica Vilaplana</div>
+    </a>
+</div>
+<div class="author">
     <a href="https://imatge.upc.edu/web/people/josep-ramon-morros" target="_blank">
       <div class="authorphoto"><img src="img/instructors/RamonMorros.jpg"></div>
       <div>Ramon Morros</div>
