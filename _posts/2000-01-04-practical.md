@@ -12,6 +12,6 @@ fa-icon: check
 * ECTS credits: 5 ECTS
 * Teaching language: English
 * Semester: Autumn 2018
-* Class Schedule: Mondays 2-5pm (2-4pm Lectures, 4-5pm Lab)
+* Class Schedule: Mondays 2-5pm (2-4pm Lectures, 4-5pm & 5-6pm Labs)
 * Capacity: 40 MSc students
 * Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
