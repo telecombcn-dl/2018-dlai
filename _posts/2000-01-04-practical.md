@@ -13,5 +13,6 @@ fa-icon: check
 * Teaching language: English
 * Semester: Autumn 2018
 * Class Schedule: Mondays 2-5pm (2-4pm Lectures, 4-5pm & 5-6pm Labs)
-* Capacity: 40 MSc students
+* Capacity: 40 MSc students (full)
 * Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
+* Course on [Piazza](piazza.com/upc/fall2018/upc230706/home)
