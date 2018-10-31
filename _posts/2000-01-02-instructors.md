@@ -75,4 +75,10 @@ fa-icon: info
     </a>
 </div>
 
+### Guest Speaker
 
+<div class="author">
+      <div class="authorphoto"><img src="img/guests/PetiaRadeva-160x160.jpg"></div>
+      <div><a href="http://www.cvc.uab.es/people/petia/" target="_blank">Petia Radeva</a></div>
+      <div>UB-CVC</div>
+</div>
