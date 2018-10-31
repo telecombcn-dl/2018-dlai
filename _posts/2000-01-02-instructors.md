@@ -64,7 +64,6 @@ fa-icon: info
 </div>
 <br>
 <br>
-<br>
 
 ### Teaching Assistant
 
@@ -74,6 +73,8 @@ fa-icon: info
       <div>Amanda Duarte</div>
     </a>
 </div>
+<br>
+<br>
 
 ### Guest Speaker
 
