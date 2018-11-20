@@ -76,10 +76,16 @@ fa-icon: info
 <br>
 <br>
 
-### Guest Speaker
+### Guest Speakers
 
 <div class="author">
       <div class="authorphoto"><img src="img/guests/PetiaRadeva-160x160.jpg"></div>
       <div><a href="http://www.ub.edu/cvub/petiaradeva/" target="_blank">Petia Radeva</a></div>
       <div>UB-CVC</div>
+</div>
+
+<div class="author">
+      <div class="authorphoto"><img src="img/guests/XaviGonzalvo-160x160.jpg"></div>
+      <div><a href="https://xavigonzalvo.github.io/" target="_blank">Xavi Gonzalvo</a></div>
+      <div>Google AI</div>
 </div>
