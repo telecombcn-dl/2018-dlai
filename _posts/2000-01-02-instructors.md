@@ -33,12 +33,6 @@ fa-icon: info
 </div>
 <br>
 <div class="author">
-    <a href="https://jorditorres.org/" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/JordiTorres-160x160.jpg"></div>
-      <div>Jordi Torres</div>
-    </a>
-</div>
-<div class="author">
     <a href="https://github.com/santi-pdp" target="_blank">
       <div class="authorphoto"><img src="img/instructors/SantiPascual.jpg"></div>
       <div>Santiago Pascual</div>
